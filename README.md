@@ -22,7 +22,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/bstearns07/WeatherAPIApp.git">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="![Screenshot 2024-04-26 230835](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/3baa9af5-35f7-4dbf-9422-fc0f02193c5d)
+" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">WeatherAPIApp</h3>
@@ -33,11 +34,9 @@
     <a href="https://github.com/bstearns07/WeatherAPIApp.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bstearns07/WeatherAPIApp.git">View Demo</a>
-    ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/github_bstearns07/WeatherAPIApp/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
