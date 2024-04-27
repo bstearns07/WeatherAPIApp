@@ -24,7 +24,6 @@
 <h3 align="center">WeatherAPIApp</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/bstearns07/WeatherAPIApp.git"><strong>Explore the docs »</strong></a>
     <br />
