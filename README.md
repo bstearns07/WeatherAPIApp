@@ -30,19 +30,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/bstearns07/WeatherAPIApp.git">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">WeatherAPIApp</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bstearns07/WeatherAPIApp.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/bstearns07/WeatherAPIApp.git">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -109,8 +109,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get started, utilize the code within the src directory in this project in your own Java IDE program of choice. Once compiled, enter the latitude and longitude of the area of your choice, press the 'enter' key of "Get Weather' button to retrieve your weather data.
 
 ### Prerequisites
 
@@ -122,7 +121,6 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
@@ -195,9 +193,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ben Stearns - bstearns07@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/bstearns07/WeatherAPIApp.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
