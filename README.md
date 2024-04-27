@@ -95,11 +95,6 @@ All you need is a Java IDE, an open internet connection, and the Java runtime en
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-![Screenshot 2024-04-26 230920](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/e4d38b43-7b85-45b2-b6ea-ee56bf6b0c49)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,10 +103,9 @@ All you need is a Java IDE, an open internet connection, and the Java runtime en
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Temperature added
+- [ ] Data Validation
+- [ ] Additional Graphics
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
