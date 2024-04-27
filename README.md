@@ -72,10 +72,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+![Screenshot 2024-04-26 230920](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/b5651bb1-2706-447c-871b-c17d9a3a9d5e)
+This project was built by Ben Stearns, a student of Northeast Community College. The purpose of this project is to create an application any user can use to retrieve weather information for any given GPS coordinates. Simply enter your desired coordinates and press 'enter' or 'Get Weather' to retrieve your information. This project utilizes the Open Meteo API to retrieve accurate weather information for your area.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,14 +81,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* IntelliJ IDE
+* Open Meteo Weather API
+* JavaFX
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,26 +96,11 @@ To get started, utilize the code within the src directory in this project in you
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+All you need is a Java IDE, an open internet connection, and the Java runtime environment installed
 * npm
   ```sh
   npm install npm@latest -g
   ```
-
-### Installation
-
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
