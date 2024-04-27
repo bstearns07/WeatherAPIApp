@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bstearns07/WeatherAPIApp.git">
-![Screenshot 2024-04-26 230835](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/97749506-29b4-4d47-b29c-a0d386aaf370)
+  ![Screenshot 2024-04-26 230835](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/3fb2914c-0977-4743-b4e8-3835d0b80ef8)
   </a>
 
 <h3 align="center">WeatherAPIApp</h3>
