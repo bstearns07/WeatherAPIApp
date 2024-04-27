@@ -22,8 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bstearns07/WeatherAPIApp.git">
-    <img src="![Screenshot 2024-04-26 230835](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/3baa9af5-35f7-4dbf-9422-fc0f02193c5d)
-" alt="Logo" width="80" height="80">
+![Screenshot 2024-04-26 230835](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/97749506-29b4-4d47-b29c-a0d386aaf370)
   </a>
 
 <h3 align="center">WeatherAPIApp</h3>
@@ -97,21 +96,15 @@ To get started, utilize the code within the src directory in this project in you
 ### Prerequisites
 
 All you need is a Java IDE, an open internet connection, and the Java runtime environment installed
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+![Screenshot 2024-04-26 230920](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/e4d38b43-7b85-45b2-b6ea-ee56bf6b0c49)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ben Stearns - bstearns07@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/bstearns07/WeatherAPIApp.git)
+Project Link: [[https://github.com/github_username/repo_name](https://github.com/bstearns07/WeatherAPIApp.git)](https://github.com/bstearns07/WeatherAPIApp.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,9 +165,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Trevor Bailey
+* Northeast Community College
+* Everyone who has supported me on my academic journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
