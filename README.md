@@ -154,7 +154,7 @@ Project Link: [[https://github.com/github_username/repo_name](https://github.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Trevor Bailey
+* Trevor Bailey - Instructor at Northeast Community College : Norfolk NE
 * Northeast Community College
 * Everyone who has supported me on my academic journey.
 
