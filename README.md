@@ -21,8 +21,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![Screenshot 2024-04-26 230920](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/b5651bb1-2706-447c-871b-c17d9a3a9d5e)
-
 <h3 align="center">WeatherAPIApp</h3>
 
   <p align="center">
