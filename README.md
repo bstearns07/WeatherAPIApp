@@ -65,8 +65,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 ![Screenshot 2024-04-26 230920](https://github.com/bstearns07/WeatherAPIApp/assets/148598796/b5651bb1-2706-447c-871b-c17d9a3a9d5e)
+## About The Project
 This project was built by Ben Stearns, a student of Northeast Community College. The purpose of this project is to create an application any user can use to retrieve weather information for any given GPS coordinates. Simply enter your desired coordinates and press 'enter' or 'Get Weather' to retrieve your information. This project utilizes the Open Meteo API to retrieve accurate weather information for your area.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -90,7 +90,10 @@ To get started, utilize the code within the src directory in this project in you
 
 ### Prerequisites
 
-All you need is a Java IDE, an open internet connection, and the Java runtime environment installed
+* An IDE of your choice
+* The JAVAFX library installed
+* The JSONObject library installed
+* The Java Runtime Environment installed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
